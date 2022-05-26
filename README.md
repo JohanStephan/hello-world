@@ -1,8 +1,13 @@
 # hello_world
 
-My original repository.
+Hello
 
-Hello, I'm Johan a agriculturist from South Africa. Born and raised on a farm, it was no accident that I ended up studying in the natural sciences. Although my passion for nature and farming still remains to this day, I couldnt help but notice the interesting things happening in the technology space. My curiosity has led me to explore topics far beyond my comfort zone, such as the object oriented programming, data manipulation, statistical programming etc data science, object oriented programming and machine learning. Reading about these topics where great, but at some point I felt the need to jump in and start to learn hands on.
+I'm Johan, an Agricultural Scientist from Cape Town South Africa. Growing up on a farm in rural South Africa, I quickly realized my love for the nature and farming. I ended up studying Agricultural Sciences at Stellenbosch University, graduating with a Masters degree in 2018. Besides my love for farming and the outdoors, I have always been curious about computers and the ever increasing role they play in our every day lives.
 
-This brings me back to this Hello_World respository, my first GitHub project. I learned that GitHub is an exceptional tool to share and collaborate on any software project.
+At the moment I am enjoying learning as much as I can about the applications of software tools in the Agricultural space. Agriculture and specifically farming is an age old industry, but the adoption of software tools have lagged consistently behind other industries. Common challenges include, service providers not being able to find product market fit, apps not being simple and or robust enough and apps not being able to function well when a device is in offline state.
+
+This brings me back to this Hello_World respository, my first GitHub project. I learned that GitHub is an exceptional tool to share and collaborate on any software projects. I'm looking forward to using GitHub as a tool to explore small personal projects and hopefully in the future collaborate on bigger projects with other individuals.
+
 Cheers!
+
+Johan Stephan
